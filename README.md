@@ -29,8 +29,7 @@
     <th><\th>
     <th ></th>   
     <th>دوشنبه</th>
-  </tr>
-   <tr>
+    <tr>
     <th ></th>
     <th ></th>
     <th></th>
