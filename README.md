@@ -1,31 +1,17 @@
 
-[۱۱/۳،‏ ۱۸:۰۳] ‏‪+98 919 213 5710‬‏: # PNU_3991_AR‬
+ # PNU_3991_AR‬
 ----------
-### مژگان متقی ثابت 
+###فاطمه اردستانی
 
----
-- [حساب گیت هاب]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
-- [آدرس رزومه]https://mozhganmottaghi.github.io/mozhgan.mottaghi/
-- [sop]https://github.com/mozhganmottaghi/SOP
-
-
--------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
+[1322110_01 طراحی واسط کاربر ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 
------------------
-[۱۱/۳،‏ ۱۸:۰۳] ‏‪+98 919 213 5710‬‏: \درس نظریه زبان و ماشین ‬
-https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01
-درس طراحی واسط کاربر
-https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin
-تعامل انسان و کامپیوتر
-https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction
-[۱۱/۳،‏ ۱۸:۰۳] ‏‪+98 919 213 5710‬‏: ## روز و ساعت ارائه دروس‬
+ ## روز و ساعت ارائه دروس‬
 
 <table style="width:100%">
   <tr>
