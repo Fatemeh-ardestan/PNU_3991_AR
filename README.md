@@ -21,8 +21,7 @@
     <th>10-12</th>
     <th>8-10</th>
     <th>روز</th>
-    <tr>
-  <th>
+    <tr> <th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
     <th><\th>
