@@ -42,5 +42,4 @@
     <th></th>
     <\table>
      
-     - [my certificate](IMG-20201227-WA0028)
 
