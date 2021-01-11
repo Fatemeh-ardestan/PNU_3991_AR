@@ -2,7 +2,7 @@
  # PNU_3991_AR‬
 ----------
 ### فاطمه اردستانی
-
+- [my certificate](IMG-20201227-WA0028.jpg)
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
@@ -10,7 +10,7 @@
 [1322110_01 طراحی واسط کاربر ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
-- [my certificate](IMG-20201227-WA0028.jpg)
+
  ## روز و ساعت ارائه دروس‬
 
 <table style="width:100%">
