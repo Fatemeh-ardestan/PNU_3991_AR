@@ -5,9 +5,9 @@
 _ _ _ _ _ _ _ _ _ _
 - [my certificate](IMG-20201227-WA0028.jpg)
 - [Resume](https://fatemeh-ardestan.github.io/)
-- [Sop](https://Fatemeh-ardestan.github.io/Sop/)
+- [Sop]()
 - [PNU_3991_AR](README.md)
-- [پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
+- [پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه ارد(https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
 > ارزیابی ها
 
