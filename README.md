@@ -5,6 +5,13 @@
 - [my certificate](IMG-20201227-WA0028.jpg)
 - [PNU_3991_AR](README.md)
 - [پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_CV_checklist_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_GeneralSection_CheckList_AR_3991.pdf)
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
