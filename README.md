@@ -7,7 +7,8 @@ _ _ _ _ _ _ _ _ _ _
 - [Resume](https://fatemeh-ardestan.github.io/)
 - [Sop]()
 - [PNU_3991_AR](README.md)
-- [ارزیابی رزومه و انگیزه نامه] 
+- [ارزیابی رزومه و انگیزه نامه]
+
 (https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
 > ارزیابی ها
