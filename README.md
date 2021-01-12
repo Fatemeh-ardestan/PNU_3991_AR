@@ -2,7 +2,8 @@
  # PNU_3991_AR‬
 ----------
 ### فاطمه اردستانی
-- [my certificate](IMG-20201227-WA0028.jpg)
+- [my certificat](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/IMG-20201227-WA0028.jpg)
+ 
 - [PNU_3991_AR](README.md)
 - [پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
