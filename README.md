@@ -7,7 +7,7 @@ _ _ _ _ _ _ _ _ _ _
 - [Resume](https://fatemeh-ardestan.github.io/)
 - [Sop]()
 - [PNU_3991_AR](README.md)
-- [پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه اردستانی]
+- [پروژه درس تعامل انسان و کامپیوتر و طراحی واسط کاربر فطمه اردستانی]
 (https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
 > ارزیابی ها
