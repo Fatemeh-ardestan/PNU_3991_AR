@@ -2,6 +2,7 @@
  # PNU_3991_AR‬
 ----------
 ### فاطمه اردستانی
+_ _ _ _ _ _ _ _ _ _
 - [my certificate](IMG-20201227-WA0028.jpg)
  
 - [PNU_3991_AR](README.md)
@@ -37,7 +38,7 @@
   </tr>
   <tr>
     <th></th>
-    <th>اصول طراحی کامپایلر</th>
+    <th>آزمون نرم افزار</th>
     <th></th>
     <th></th>
     <th></th>
@@ -55,11 +56,11 @@
   </tr>
    <tr>
      <th></th>
-     <th>مدار منطقی</th>
+     <th>معماری کامپیوتر</th>
      <th></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
-     <th>اندیشه اسلامی</th>   
+     <th>دانش خانواده و جمعیت</th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
