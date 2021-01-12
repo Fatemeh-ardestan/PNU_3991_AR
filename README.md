@@ -4,7 +4,7 @@
 ### فاطمه اردستانی
 - [my certificate](IMG-20201227-WA0028.jpg)
 - [PNU_3991_AR](README.md)
-https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه اردستانی 970081880
+- [پروژه درس تعامل انسان وکامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
