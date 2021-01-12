@@ -7,7 +7,7 @@ _ _ _ _ _ _ _ _ _ _
 - [Resume](https://fatemeh-ardestan.github.io/)
 - [Sop]()
 - [PNU_3991_AR](README.md)
-- [خلاصه ارزیابی درس طراحی واسط کاربر]
+- [خلاصه ارزیابی درس طراحی واسط کاربر](
 (https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
 > ارزیابی ها
