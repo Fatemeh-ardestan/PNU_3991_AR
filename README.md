@@ -41,6 +41,6 @@
     <th></th>
     <th></th>
     <th></th>
-    <\table>
+    </table>
      
 
