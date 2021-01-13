@@ -16,6 +16,7 @@ _ _ _ _ _ _ _ _ _ _
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_GeneralSection_CheckList_AR_3991.pdf)
 
+##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General%202/FA_HumanComputerInteraction_CheckList_AR_3991%20(1).pdf)
 - [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General%202/FA_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
