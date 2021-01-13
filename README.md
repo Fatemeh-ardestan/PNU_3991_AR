@@ -10,7 +10,7 @@ _ _ _ _ _ _ _ _ _ _
 - [PNU_3991_AR](README.md)
 - [پروژه درس تعامل انسان و کامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
-> ارزیابی ها
+##  ارزیابی ها
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General/FA_CV_CheckList_AR_3991.pdf)
