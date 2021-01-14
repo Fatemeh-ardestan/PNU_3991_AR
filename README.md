@@ -25,9 +25,9 @@ _ _ _ _ _ _ _ _ _ _
 
 ## دروس کارشناسی
 
-[1322110_01 طراحی واسط کاربر ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+[1322110_01 طراحی واسط کاربر ](
 
-[1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
+[1322108_013 تعامل انسان کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/%D9%86%D9%85%D9%88%D9%86%D9%87%20%D8%AF%D8%B1%D8%B3%20%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%B4%D8%AF%D9%87/%D9%86%D9%85%D9%88%D9%86%D9%87%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%B4%D8%AF%D9%87%20%D8%AF%D8%B1%20%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%20%D9%87%D8%A7%DB%8C%20%D8%AF%DB%8C%DA%AF%D8%B1)
 
  ## روز و ساعت ارائه دروس‬
 
