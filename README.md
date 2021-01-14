@@ -27,8 +27,7 @@ _ _ _ _ _ _ _ _ _ _
 
 [1322110_01 طراحی واسط کاربر ](
 
-[1322108_013 تعامل انسان کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main)
-
+[1322108_013 تعامل انسان کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/HumanComputerInteraction/FA_UserInterfaceDesgin_CheckList_AR_3991.pdf.pdf)
  ## روز و ساعت ارائه دروس‬
 
 <div dir="ltr">
