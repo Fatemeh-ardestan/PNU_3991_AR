@@ -25,7 +25,7 @@ _ _ _ _ _ _ _ _ _ _
 
 ## دروس کارشناسی
 
-[1322110_01 طراحی واسط کاربر ](
+[1322110_01 طراحی واسط کاربر ](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/UserInterfaceDesgin/FA_HumanComputerInteraction_CheckList_AR_3991.pdf.pdf)
 
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/HumanComputerInteraction/FA_UserInterfaceDesgin_CheckList_AR_3991.pdf.pdf)
  ## روز و ساعت ارائه دروس‬
