@@ -32,8 +32,7 @@ _HCI -12_علی خرسند ابراهیمی
 - [مهرشاد ده نمکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/21_%D9%85%D9%87%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%AF%D9%87%20%D9%86%D9%85%D9%83%D9%8A)
 - [حامد فتحی](https://github.com/Hamifthi)
 - [علیرضا منتظران](https://github.com/alirezacfc)
-UID-08 امیر حسین پاکند
-
+- [امیر حسین پاکند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/08_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D9%BE%D8%A7%D9%83%D9%86%D8%AF)
 
 
 ## Winter Semester Courses 1399/2020
