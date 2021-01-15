@@ -1,7 +1,6 @@
 
  # PNU_3991_AR‬
 ----------
-<div dir="rtl">
 ### فاطمه اردستانی
 _ _ _ _ _ _ _ _ _ _
 - [github](https://github.com/Fatemeh-ardestan)
