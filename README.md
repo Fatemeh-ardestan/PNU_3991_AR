@@ -1,7 +1,7 @@
 
  # PNU_3991_AR‬
 ----------
-
+<div dir="rtl">
 ### فاطمه اردستانی
 _ _ _ _ _ _ _ _ _ _
 - [github](https://github.com/Fatemeh-ardestan)
@@ -10,7 +10,7 @@ _ _ _ _ _ _ _ _ _ _
 - [SOP](https://fatemeh-ardestan.github.io/SOP/)
 - [jlord patchwork](https://raw.githubusercontent.com/Fatemeh-ardestan/PNU_3991_AR/main/Jloard-patchwork.jpg)
 - [PNU_3991_AR](README.md)
-- [پروژه درس تعامل انسان و کامپیوتر و طراحی واسط کاربر-فاطمه اردستانی](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
+- [Group Project](https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)  
 
 ##  ارزیابی
 
