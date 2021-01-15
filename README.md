@@ -21,6 +21,21 @@ _ _ _ _ _ _ _ _ _ _
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General%202/FA_HumanComputerInteraction_CheckList_AR_3991%20(1).pdf)
 - [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/Fatemeh-ardestan/PNU_3991_AR/blob/main/General%202/FA_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
+# گروه ها
+
+HCI-27 مژگان متقی ثابت
+_HCI -09_المیرا حبیب پور
+_HCI -14_فرید رجبی دولت آبادی
+_HCI -03_زینب اسحقیان
+_HCI -12_علی خرسند ابراهیمی
+_HCI-34_فاطمه هاشم زاده
+RPM-21 مهرشاد ده نمکی
+TLM-47 حامد فتحی
+TLM-63 علیرضا منتظران
+UID-08 امیر حسین پاکند
+
+
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
