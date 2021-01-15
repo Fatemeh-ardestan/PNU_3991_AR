@@ -26,7 +26,7 @@ _ _ _ _ _ _ _ _ _ _
 - [مژگان متقی ثابت](https://github.com/mozhganmottaghi)
 - [المیرا حبیب پور](https://github.com/habibpour75)
 - [فرید رجبی دولت آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
-_HCI -03_زینب اسحقیان
+- [زینب اسحقیان]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/03_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%A7%D8%B3%D8%AD%D9%82%D9%8A%D8%A7%D9%86)
 _HCI -12_علی خرسند ابراهیمی
 _HCI-34_فاطمه هاشم زاده
 RPM-21 مهرشاد ده نمکی
