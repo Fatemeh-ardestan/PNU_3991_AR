@@ -31,7 +31,7 @@ _HCI -12_علی خرسند ابراهیمی
 - [فاطمه هاشم زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/34_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87)
 - [مهرشاد ده نمکی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/21_%D9%85%D9%87%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%AF%D9%87%20%D9%86%D9%85%D9%83%D9%8A)
 - [حامد فتحی](https://github.com/Hamifthi)
-TLM-63 علیرضا منتظران
+- [علیرضا منتظران](https://github.com/alirezacfc)
 UID-08 امیر حسین پاکند
 
 
