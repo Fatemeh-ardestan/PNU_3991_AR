@@ -25,7 +25,7 @@ _ _ _ _ _ _ _ _ _ _
 
 - [مژگان متقی ثابت](https://github.com/mozhganmottaghi)
 - [المیرا حبیب پور](https://github.com/habibpour75)
-- [فرید رجبی دولت آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
+- [فرید رجبی دولت آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/14_%D9%81%D8%B1%D9%8A%D8%AF%20%D8%B1%D8%AC%D8%A8%D9%8A%20%D8%AF%D9%88%D9%84%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%D9%8A)
 - [زینب اسحقیان]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/03_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%A7%D8%B3%D8%AD%D9%82%D9%8A%D8%A7%D9%86)
 - [علی خرسند ابراهیمی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/12_%D8%B9%D9%84%D9%8A%20%D8%AE%D8%B1%D8%B3%D9%86%D8%AF%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A)
 - [فاطمه هاشم زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/34_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87)
