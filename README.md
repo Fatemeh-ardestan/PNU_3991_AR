@@ -28,7 +28,7 @@ _ _ _ _ _ _ _ _ _ _
 - [فرید رجبی دولت آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 - [زینب اسحقیان]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/03_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%A7%D8%B3%D8%AD%D9%82%D9%8A%D8%A7%D9%86)
 _HCI -12_علی خرسند ابراهیمی
-_HCI-34_فاطمه هاشم زاده
+- [فاطمه هاشم زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/34_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87)
 RPM-21 مهرشاد ده نمکی
 TLM-47 حامد فتحی
 TLM-63 علیرضا منتظران
